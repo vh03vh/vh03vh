@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋I'm__vh</h1>
+<h1 align="center">Hi 👋, I'm __vh</h1>
 <h3 align="center">cs student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vh03vh&label=Profile%20views&color=0e75b6&style=flat" alt="vh03vh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vh03vh" alt="vh03vh" /></a> </p>
 
 - 🌱 I’m currently learning **web dev + app dev**
 
@@ -21,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vh03vh&show_icons=true&locale=en&layout=compact" alt="vh03vh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vh03vh&show_icons=true&locale=en" alt="vh03vh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vh03vh&" alt="vh03vh" /></p>
