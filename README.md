@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm vh03vh</h1>
 
 <div align="center">
-
-<img   align="left" src="https://user-images.githubusercontent.com/101208228/230441214-d60b2fea-c79b-499f-a6ef-080c823bd3a0.gif" alt="vh03vh's "/>
 </br>
 </br>
 
