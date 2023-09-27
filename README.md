@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm vh03vh</h1>
 
+<div align="center">
+
 <img   align="left" src="https://user-images.githubusercontent.com/101208228/230441214-d60b2fea-c79b-499f-a6ef-080c823bd3a0.gif" alt="vh03vh's "/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vh03vh&label=Profile%20views&color=0e75b6&style=flat" alt="vh03vh" /> </p>
+</br>
+</br>
+
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=vh03vh&label=Profile%20views&color=0e75b6&style=flat" alt="vh03vh" />
+
+</p>
+
 
 - 🌱 I’m currently learning **(web dev + app dev)more and more**
 
@@ -23,5 +31,4 @@
   
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vh03vh&show_icons=true&theme=radical)
-
+</div>
